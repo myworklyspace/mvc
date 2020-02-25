@@ -1,0 +1,16 @@
+{
+    "name": "myworklyspace/mvc",
+    "description": "Parent theme for WP",
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "^1.0@dev"
+    },
+    "license": "PRIVATE",
+    "authors": [
+        {
+            "name": "Andrey S.",
+            "email": "myworklyspace@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
